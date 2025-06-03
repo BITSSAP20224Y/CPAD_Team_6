@@ -1,5 +1,11 @@
 # CPAD_Team_6
 
+## Assignment 1
+[▶️ Watch Demo Video](./video/inventory_count_video.mp4)
+
+## Assignment 2 - OpenAPI Spec
+[Swagger UI](https://secretkeepers.github.io/secret-keeper-service/#/)
+
 ### 👤 Team Members
 
 - **Member 1:** Palaniappan Sockalingam (2022HS70058)
@@ -8,8 +14,7 @@
 - **Member 4:** Prem Kumar Mandal (2022HS70027)
 - **Member 4:** Abhisek Mohanty (2022HS70051)
 
-## Assignment 2 - OpenAPI Spec
-[Swagger UI](https://secretkeepers.github.io/secret-keeper-service/#/)
+---
 
 ## About the Project
 
